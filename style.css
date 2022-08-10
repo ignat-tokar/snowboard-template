@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+}
+.Header {
+    height: 110px;
+    width: 100%;
+    background-color: black;
+}
+.Logo-img {
+    margin-top: 27px;
+    margin-left: 88px;
+    float: left;
+    width: 70px;
+    height: 52px;
+}
+.Menu {
+    float: left;
+    padding-top: 52px;
+}
+.Menu-item {
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    color: white;
+    list-style-type: none;
+    font-size: 13px;
+    padding-left: 26px;
+}
+.Search-icon {
+    width: 25px;
+    height: 24px;
+    padding-left: 467px;
+    float: left;
+}
+.Shop-icon {
+    width: 14px;
+    height: 16px;
+    padding-left: 29px;
+    float: left;
+}
+.Price {
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    color: white;
+    font-size: 13px;
+    padding-left: 9px;
+}
+.Slider {
+    float: left;
+    width: 100%;
+    height: 651px;
+    background-image: url('images/slider1.jpg');
+}
+.Title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80px;
+    color: white;
+}
+.Button {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding: 19px 34px;
+    color: white;
+    background-color: black;
+    float: right;
+}
+.Slider-block {
+    width: 503px;
+    margin: auto;
+    margin-top: 212px;
+}
