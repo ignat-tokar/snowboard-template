@@ -68,3 +68,57 @@ body {
     margin: auto;
     margin-top: 212px;
 }
+.Preview-block {
+    width: 100%;
+    float: left;
+    margin-bottom: 216px;
+}
+.Preview-title {
+    width: 100%;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 160px;
+    text-align: center;
+    font-size: 48px;
+}
+.Preview-subtitle {
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.X {
+    display: block;
+    margin: auto;
+    margin-top: 28px;
+}
+.Boards-block {
+    position: relative;
+    width: 100%;
+    float: left;
+    overflow: hidden;
+}
+.Boards {
+    position: relative;
+    top: 0px;
+    left: -120px;
+    margin-top: 122px;
+    margin-bottom: 60px;
+}
+.Arrow-left {
+    position: absolute;
+    top: 190px;
+    left: 13px;
+}
+.Arrow-right {
+    position: absolute;
+    top: 190px;
+    right: 13px;
+}
+#fs24 {
+    font-size: 24px;
+}
