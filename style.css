@@ -122,3 +122,37 @@ body {
 #fs24 {
     font-size: 24px;
 }
+
+.O-nas {
+    width: 100%;
+    background-image: url('images/bg image.png');
+    float: left;
+    padding-bottom: 170px;
+}
+.O-nas-title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 48px;
+    color: white;
+    margin-left: 220px;
+    margin-top: 251px;
+    width: 450px;
+    text-transform: uppercase;
+    margin-bottom: 80px;
+}
+.O-nas-title span {
+    font-size: 15px;
+    font-weight: 400;
+    position: relative;
+    bottom: 26px;
+}
+.O-nas-text {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: white;
+    margin-left: 220px;
+    width: 601px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
