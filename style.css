@@ -199,3 +199,55 @@ body {
     line-height: 30px;
     width: 217px;
 }
+
+.Footer {
+    width: 100%;
+    float: left;
+    background-color: black;
+}
+.Footer-wrapper {
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-bottom: 70px;
+}
+.Footer-block {
+    width: 25%;
+    float: left;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.Footer-block h2 {
+    font-size: 17px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 75px;
+    margin-bottom: 30px;
+}
+.Footer-block p {
+    color: #c9c9c9;
+    line-height: 30px;
+}
+.Footer-block input {
+    width: 162px;
+    height: 40px;
+    float: left;
+    padding-left: 15px;
+    border: none;
+    border-radius: none;
+}
+.Footer-block button {
+    width: 57px;
+    height: 42px;
+    float: left;
+    border: none;
+    border-radius: none;
+    background-color: #c7c7c7;
+    font-size: 15px;
+    font-weight: 800;
+}
+.Footer-block img {
+    margin-top: 62px;
+}
